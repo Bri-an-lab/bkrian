@@ -1,2 +1,64 @@
 <h1>Welcome to BKrian</h1>
 <p>My Life. My Journey. My Future.</p>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BKrian | My Life. My Journey. My Future.</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <div class="logo">BKrian</div>
+    <p>My Life. My Journey. My Future.</p>
+
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="education.html">Education</a>
+      <a href="dreams.html">Dreams</a>
+      <a href="career.html">Career</a>
+      <a href="support.html">Support</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Welcome to BKrian</h1>
+
+    <p class="intro">
+      This is my personal space — a place to document
+      my life, education, ambitions and journey into the future.
+    </p>
+
+    <section class="cards">
+
+      <div class="card">
+        <h2>Education</h2>
+        <p>My academic journey and what I am learning.</p>
+        <a href="education.html">Explore Education</a>
+      </div>
+
+      <div class="card">
+        <h2>Dreams</h2>
+        <p>My ambitions, goals and future vision.</p>
+        <a href="dreams.html">Explore My Dreams</a>
+      </div>
+
+      <div class="card">
+        <h2>Career</h2>
+        <p>My journey towards a career in technology.</p>
+        <a href="career.html">Explore My Career</a>
+      </div>
+
+    </section>
+  </main>
+
+  <footer>
+    © 2026 BKrian. All rights reserved.
+  </footer>
+
+</body>
+</html>
