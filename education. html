@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Education | BKrian</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <div class="logo">BKrian</div>
+    <p>My Life. My Journey. My Future.</p>
+  </header>
+
+  <main>
+    <h1>My Education</h1>
+
+    <p class="intro">
+      Education is an important part of my journey.
+      This is where I document what I am learning,
+      my academic progress and my future studies.
+    </p>
+
+    <section class="card">
+      <h2>Current Studies</h2>
+      <p>Currently preparing for Form 4 and strengthening my academic foundation.</p>
+    </section>
+
+    <br>
+
+    <section class="card">
+      <h2>My Main Learning Interests</h2>
+      <ul>
+        <li>Mathematics</li>
+        <li>Physics</li>
+        <li>Computer Science</li>
+        <li>Programming</li>
+        <li>Artificial Intelligence</li>
+      </ul>
+    </section>
+
+    <br>
+
+    <section class="card">
+      <h2>My Future Education</h2>
+      <p>
+        My goal is to pursue higher education in Computer Science
+        or a related technology field.
+      </p>
+    </section>
+
+    <br>
+
+    <a href="index.html">← Back to Home</a>
+  </main>
+
+  <footer>
+    © 2026 BKrian. All rights reserved.
+  </footer>
+
+</body>
+</html>
