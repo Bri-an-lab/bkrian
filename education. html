@@ -1,46 +1,94 @@
 
-<main>
-  <h1>My Education Journey</h1>
-  <p class="intro">
-    My academic journey, achievements and ambitions
-    for the future.
-  </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Education | BKrian</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 
-  <h2>PRIMARY EDUCATION</h2>
-  <section class="card">
-    <h3>Sacred Heart Catholic Primary School</h3>
-    <p>Naivasha, Kenya</p>
-    <p><strong>KCPE Score:</strong> 375 marks</p>
-  </section>
+<body>
 
-  <h2>HIGH SCHOOL EDUCATION</h2>
-  <section class="card">
-    <h3>Gaichanjiru High School</h3>
-    <p>Murang'a, Kenya</p>
-    <p><strong>Current Class:</strong> Form Three</p>
-    <p><strong>KCSE Target:</strong> B Plain or B+</p>
-  </section>
+  <header>
+    <div class="logo">BKrian</div>
+    <p>My Life. My Journey. My Future.</p>
 
-  <h2>UNIVERSITY ASPIRATIONS</h2>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="education.html">Education</a>
+      <a href="dreams.html">Dreams</a>
+      <a href="career.html">Career</a>
+      <a href="support.html">Support</a>
+    </nav>
+  </header>
 
-  <section class="card">
-    <h3>Kenya</h3>
-    <ul>
-      <li>Jomo Kenyatta University of Agriculture and Technology (JKUAT)</li>
-      <li>University of Nairobi (UON)</li>
-      <li>Kenyatta University (KU)</li>
-    </ul>
+  <main>
+    <h1>My Education Journey</h1>
 
-    <h3>United States</h3>
-    <ul>
-      <li>Massachusetts Institute of Technology (MIT)</li>
-    </ul>
-
-    <p>
-      My ambition is to pursue Computer Science,
-      specialising in areas such as Software Engineering
-      and Artificial Intelligence.
+    <p class="intro">
+      My academic journey, achievements and ambitions
+      for the future.
     </p>
-  </section>
-</main>
+
+    <h2>PRIMARY EDUCATION</h2>
+
+    <section class="card">
+      <h3>Sacred Heart Catholic Primary School</h3>
+      <p>Naivasha, Kenya</p>
+      <p><strong>KCPE Score:</strong> 375 marks</p>
+    </section>
+
+    <br>
+
+    <h2>HIGH SCHOOL EDUCATION</h2>
+
+    <section class="card">
+      <h3>Gaichanjiru High School</h3>
+      <p>Murang'a, Kenya</p>
+      <p><strong>Current Class:</strong> Form Three</p>
+      <p><strong>KCSE Target:</strong> B Plain or B+</p>
+    </section>
+
+    <br>
+
+    <h2>UNIVERSITY ASPIRATIONS</h2>
+
+    <section class="card">
+      <h3>Kenya</h3>
+      <ul>
+        <li>Jomo Kenyatta University of Agriculture and Technology (JKUAT)</li>
+        <li>University of Nairobi (UON)</li>
+        <li>Kenyatta University (KU)</li>
+      </ul>
+
+      <br>
+
+      <h3>United States</h3>
+      <ul>
+        <li>Massachusetts Institute of Technology (MIT)</li>
+      </ul>
+
+      <br>
+
+      <p>
+        My ambition is to pursue Computer Science,
+        specialising in areas such as Software Engineering
+        and Artificial Intelligence.
+      </p>
+
+      <p>
+        I am also looking forward to exploring scholarships
+        and financial aid opportunities to support my education.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    © 2026 BKrian. All rights reserved.
+  </footer>
+
+</body>
+</html>
+
 
